@@ -14,6 +14,7 @@ public class ArrayAndSecret
 		++x;
 		--x;
 		System.out.println(x);
+
 	//通过^运算符实现加密解密
 	char a1='十',a2='点',a3='进',a4='攻';
      char secret='点';
