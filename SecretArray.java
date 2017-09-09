@@ -1,4 +1,4 @@
-public class ArrayAndSecret
+public class SecretArray
 { public static void main(String args[])
    {   //测试一维数组
 	   int a[]={100,200,300};
@@ -14,7 +14,8 @@ public class ArrayAndSecret
 		++x;
 		--x;
 		System.out.println(x);
-
+		double y=4.0/3;
+		System.out.println(y);
 	//通过^运算符实现加密解密
 	char a1='十',a2='点',a3='进',a4='攻';
      char secret='点';
